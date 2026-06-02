@@ -6,27 +6,12 @@
   <img src="https://img.shields.io/badge/Level-Beginner%20to%20Advanced-black?style=for-the-badge" alt="Level Badge" />
 </p>
 
-A well-structured repository to track SQL problem solving, solution organization, and direct mapping between curated problem names and official LeetCode problem links. This repository is designed for systematic SQL interview preparation with clean folder structure, readable solutions, and easy navigation.[1][2][3]
+A well-structured repository to track SQL problem solving, solution organization, and direct mapping between curated problem names and official LeetCode problem links. This repository is designed for systematic SQL interview preparation with clean folder structure, readable solutions, and easy navigation.
 
 ## Repository Purpose
 
-This repository helps organize SQL practice in a portfolio-friendly format by connecting each curated problem label to its official LeetCode page and linking each listed problem name to a local solution file inside the repository.[1][2][3]
+This repository helps organize SQL practice in a portfolio-friendly format by connecting each curated problem label to its official LeetCode page and linking each listed problem name to a local solution file inside the repository.
 
-### Suggested Folder Structure
-
-```text
-Striver-SQL-Leetcode-Problems/
-│── README.md
-│── solutions/
-│   ├── first-login-analysis.sql
-│   ├── employee-work-time-summary.sql
-│   ├── unique-subjects-per-teacher.sql
-│   ├── user-follower-count.sql
-│   ├── crm-automotive-sales-analysis.sql
-│   └── highest-order-placing-customer.sql
-│── assets/
-│   └── banner.png
-```
 
 ## SQL Problem Map
 
