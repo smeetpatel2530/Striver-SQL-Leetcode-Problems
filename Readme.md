@@ -20,11 +20,10 @@ This repository helps organize SQL practice in a portfolio-friendly format by co
 
 | Problem Name | LeetCode Link |
 |---|---|
-| [First Login Analysis](./solutions/first-login-analysis.sql) | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) [1] |
-| [Employee Work Time Summary](./solutions/employee-work-time-summary.sql) | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) [2] |
-| [Unique Subjects per Teacher](./solutions/unique-subjects-per-teacher.sql) | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) [3] |
+| [First Login Analysis](./solutions/first-login-analysis.sql) | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) |
+| [Employee Work Time Summary](./solutions/employee-work-time-summary.sql) | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) |
+| [Unique Subjects per Teacher](./solutions/unique-subjects-per-teacher.sql) | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/)|
 | [User Follower Count](./solutions/user-follower-count.sql) | Add official LeetCode link here |
 | [CRM Automotive Sales Analysis](./solutions/crm-automotive-sales-analysis.sql) | Add official LeetCode link here |
 | [Highest Order Placing Customer](./solutions/highest-order-placing-customer.sql) | Add official LeetCode link here |
 
-matches currently in this README are official LeetCode SQL problems.[1][2][3]
