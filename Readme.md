@@ -30,8 +30,8 @@ This repository helps organize SQL practice in a portfolio-friendly format by co
 | 8 | <a href="./solutions/first-login-analysis.sql">First Login Analysis</a> | <a href="https://leetcode.com/problems/game-play-analysis-i/">Game Play Analysis I</a> |
 | 9 | <a href="./solutions/employee-work-time-summary.sql">Employee Work Time Summary</a> | <a href="https://leetcode.com/problems/find-total-time-spent-by-each-employee/">Find Total Time Spent by Each Employee</a> |
 | 10 | <a href="./solutions/unique-subjects-per-teacher.sql">Unique Subjects per Teacher</a> | <a href="https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/">Number of Unique Subjects Taught by Each Teacher</a> |
-| 11 | <a href="./solutions/user-follower-count.sql">User Follower Count</a> | <sub>Link to be added</sub> |
-| 12 | <a href="./solutions/crm-automotive-sales-analysis.sql">CRM Automotive Sales Analysis</a> | <sub>Link to be added</sub> |
+| 11 | <a href="./solutions/user-follower-count.sql">User Follower Count</a> | <a href="https://leetcode.com/problems/find-followers-count/description/">Find Followers Count</a> |
+| 12 | <a href="./solutions/crm-automotive-sales-analysis.sql">CRM Automotive Sales Analysis</a> |  <a href="https://leetcode.com/problems/daily-leads-and-partners/description/">Daily Leads and Partners</a> |
 | 13 | <a href="./solutions/highest-order-placing-customer.sql">Highest Order Placing Customer</a> | <sub>Link to be added</sub> |
 | 14 | <a href="./solutions/frequent-actor-director-duos.sql">Frequent Actor-Director Duos</a> | <sub>Link to be added</sub> |
 | 15 | <a href="./solutions/large-classes.sql">Large Classes</a> | <a href="https://leetcode.com/problems/classes-more-than-5-students/">Classes More Than 5 Students</a> |
