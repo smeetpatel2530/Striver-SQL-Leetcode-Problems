@@ -81,6 +81,28 @@ This repository helps organize SQL practice in a portfolio-friendly format by co
 | 59 | <a href="./solutions/highest-non-repeating-number.sql">Highest Non-Repeating Number</a> | <sub>Link to be added</sub> |
 | 60 | <a href="./solutions/find-the-first-device-logged-in-by-each-player.sql">Find the First Device Logged In by Each Player</a> | <a href="https://leetcode.com/problems/game-play-analysis-i/">Game Play Analysis I</a> [5] |
 | 61 | <a href="./solutions/salespersons-without-red-orders.sql">Salespersons Without RED Orders</a> | <sub>Link to be added</sub> |
+| 62 | <a href="./solutions/employees-with-the-highest-salary-in-each-department.sql">Employees with the Highest Salary in Each Department</a> | <sub>Link to be added</sub> |
+| 63 | <a href="./solutions/find-the-most-recent-order-for-each-product.sql">Find the Most Recent Order for Each Product</a> | <sub>Link to be added</sub> |
+| 64 | <a href="./solutions/find-transactions-with-maximum-amount-per-day.sql">Find Transactions with Maximum Amount Per Day</a> | <sub>Link to be added</sub> |
+| 65 | <a href="./solutions/incomplete-employee-records.sql">Incomplete Employee Records</a> | <sub>Link to be added</sub> |
+| 66 | <a href="./solutions/find-quiet-students-in-all-exams.sql">Find Quiet Students in All Exams</a> | <sub>Link to be added</sub> |
+| 67 | <a href="./solutions/top-grade-per-student.sql">Top Grade per Student</a> | <sub>Link to be added</sub> |
+| 68 | <a href="./solutions/swap-consecutive-seats.sql">Swap Consecutive Seats</a> | <sub>Link to be added</sub> |
+| 69 | <a href="./solutions/safe-investment-countries.sql">Safe Investment Countries</a> | <sub>Link to be added</sub> |
+| 70 | <a href="./solutions/tennis-grand-slam-winners.sql">Tennis Grand Slam Winners</a> | <sub>Link to be added</sub> |
+| 71 | <a href="./solutions/football-team-scores.sql">Football Team Scores</a> | <sub>Link to be added</sub> |
+| 72 | <a href="./solutions/order-count-per-customer.sql">Order Count per Customer</a> | <sub>Link to be added</sub> |
+| 73 | <a href="./solutions/boolean-expression-evaluator.sql">Boolean Expression Evaluator</a> | <sub>Link to be added</sub> |
+| 74 | <a href="./solutions/immediate-first-orders-percentage.sql">Immediate First Orders Percentage</a> | <sub>Link to be added</sub> |
+| 75 | <a href="./solutions/find-all-employees-reporting-to-the-head-of-the-company.sql">Find All Employees Reporting to the Head of the Company</a> | <sub>Link to be added</sub> |
+| 76 | <a href="./solutions/orphan-employees.sql">Orphan Employees</a> | <sub>Link to be added</sub> |
+| 77 | <a href="./solutions/most-frequently-ordered-product-for-each-customer.sql">Most Frequently Ordered Product(s) for Each Customer</a> | <sub>Link to be added</sub> |
+| 78 | <a href="./solutions/find-missing-subtasks-for-each-task.sql">Find Missing Subtasks for Each Task</a> | <sub>Link to be added</sub> |
+| 79 | <a href="./solutions/latest-2020-login.sql">Latest 2020 Login</a> | <sub>Link to be added</sub> |
+| 80 | <a href="./solutions/kid-friendly-movies-in-last-month.sql">Kid-Friendly Movies in Last Month</a> | <sub>Link to be added</sub> |
+| 81 | <a href="./solutions/warmer-days.sql">Warmer Days</a> | <sub>Link to be added</sub> |
+| 82 | <a href="./solutions/restaurant-payment-trends.sql">Restaurant Payment Trends</a> | <sub>Link to be added</sub> |
+| 83 | <a href="./solutions/inactive-sellers.sql">Inactive Sellers</a> | <sub>Link to be added</sub> |
 
 
 
