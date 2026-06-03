@@ -60,10 +60,10 @@ This repository helps organize SQL practice in a portfolio-friendly format by co
 | 38 | <a href="./solutions/students-enrolled-in-courses.sql">Students Enrolled in Courses</a> | <sub>Link to be added</sub> |
 | 39 | <a href="./solutions/sales-analysis.sql">Sales Analysis</a> |  <a href="https://leetcode.com/problems/product-sales-analysis-i/description/">Product Sales Analysis I</a> |
 | 40 | <a href="./solutions/minimum-distance-between-points.sql">Minimum Distance Between Points</a> | <a href="https://leetcode.com/problems/shortest-distance-in-a-line/description/">Shortest Distance in a Line</a> |
-| 41 | <a href="./solutions/suspended-accounts.sql">Suspended Accounts</a> | <sub>Link to be added</sub> |
-| 42 | <a href="./solutions/find-team-size-for-each-employee.sql">Find Team Size for Each Employee</a> | <sub>Link to be added</sub> |
-| 43 | <a href="./solutions/average-experience-by-project.sql">Average Experience by Project</a> | <sub>Link to be added</sub> |
-| 44 | <a href="./solutions/warehouse-stock-manager.sql">Warehouse Stock Manager</a> | <sub>Link to be added</sub> |
+| 41 | <a href="./solutions/suspended-accounts.sql">Suspended Accounts</a> | <a href="https://leetcode.com/problems/leetflex-banned-accounts/description/">Leetflex Banned Accounts</a> |
+| 42 | <a href="./solutions/find-team-size-for-each-employee.sql">Find Team Size for Each Employee</a> | <a href="https://leetcode.com/problems/find-the-team-size/description/">Find the Team Size</a> |
+| 43 | <a href="./solutions/average-experience-by-project.sql">Average Experience by Project</a> | <a href="https://leetcode.com/problems/project-employees-i/description/">Project Employees I</a> |
+| 44 | <a href="./solutions/warehouse-stock-manager.sql">Warehouse Stock Manager</a> | <a href="https://leetcode.com/problems/warehouse-manager/description/">Warehouse Manager</a> |
 | 45 | <a href="./solutions/table-join-operation.sql">Table Join Operation</a> | <sub>Link to be added</sub> |
 | 46 | <a href="./solutions/inactive-customers.sql">Inactive Customers</a> | <sub>Link to be added</sub> |
 | 47 | <a href="./solutions/students-enrolled-in-non-existent-departments.sql">Students Enrolled in Non-Existent Departments</a> | <sub>Link to be added</sub> |
