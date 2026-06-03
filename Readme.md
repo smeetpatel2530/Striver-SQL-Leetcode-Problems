@@ -32,7 +32,7 @@ This repository helps organize SQL practice in a portfolio-friendly format by co
 | 10 | <a href="./solutions/unique-subjects-per-teacher.sql">Unique Subjects per Teacher</a> | <a href="https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/">Number of Unique Subjects Taught by Each Teacher</a> |
 | 11 | <a href="./solutions/user-follower-count.sql">User Follower Count</a> | <a href="https://leetcode.com/problems/find-followers-count/description/">Find Followers Count</a> |
 | 12 | <a href="./solutions/crm-automotive-sales-analysis.sql">CRM Automotive Sales Analysis</a> |  <a href="https://leetcode.com/problems/daily-leads-and-partners/description/">Daily Leads and Partners</a> |
-| 13 | <a href="./solutions/highest-order-placing-customer.sql">Highest Order Placing Customer</a> | <sub>Link to be added</sub> |
+| 13 | <a href="./solutions/highest-order-placing-customer.sql">Highest Order Placing Customer</a> | <a href="https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/description/">Customer Placing the Largest Number of Orders</a> |
 | 14 | <a href="./solutions/frequent-actor-director-duos.sql">Frequent Actor-Director Duos</a> | <sub>Link to be added</sub> |
 | 15 | <a href="./solutions/large-classes.sql">Large Classes</a> | <a href="https://leetcode.com/problems/classes-more-than-5-students/">Classes More Than 5 Students</a> |
 | 16 | <a href="./solutions/email-duplicates.sql">Email Duplicates</a> | <a href="https://leetcode.com/problems/duplicate-emails/">Duplicate Emails</a> |
