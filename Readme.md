@@ -49,7 +49,7 @@ This repository helps organize SQL practice in a portfolio-friendly format by co
 | 27 | <a href="./solutions/combine-active-and-archived-users.sql">Combine Active and Archived Users</a> | <sub>Link to be added</sub> |
 | 28 | <a href="./solutions/merge-recent-orders-from-multiple-sources.sql">Merge Recent Orders from Multiple Sources</a> | <sub>Link to be added</sub> |
 | 29 | <a href="./solutions/combine-sales-records-without-deduplication.sql">Combine Sales Records Without Deduplication</a> | <sub>Link to be added</sub> |
-| 30 | <a href="./solutions/reshape-products-data.sql">Reshape Products Data</a> | <sub>Link to be added</sub> |
+| 30 | <a href="./solutions/reshape-products-data.sql">Reshape Products Data</a> | <a href="https://leetcode.com/problems/rearrange-products-table/description/">Rearrange Products Table</a> |
 | 31 | <a href="./solutions/employees-and-their-departments.sql">Employees and Their Departments</a> | <sub>Link to be added</sub> |
 | 32 | <a href="./solutions/customer-orders-overview.sql">Customer Orders Overview</a> | <sub>Link to be added</sub> |
 | 33 | <a href="./solutions/employees-with-confirmed-salary-records.sql">Employees With Confirmed Salary Records</a> | <sub>Link to be added</sub> |
