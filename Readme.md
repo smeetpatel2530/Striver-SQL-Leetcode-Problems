@@ -33,8 +33,8 @@ This repository helps organize SQL practice in a portfolio-friendly format by co
 | 11 | <a href="./solutions/user-follower-count.sql">User Follower Count</a> | <a href="https://leetcode.com/problems/find-followers-count/description/">Find Followers Count</a> |
 | 12 | <a href="./solutions/crm-automotive-sales-analysis.sql">CRM Automotive Sales Analysis</a> |  <a href="https://leetcode.com/problems/daily-leads-and-partners/description/">Daily Leads and Partners</a> |
 | 13 | <a href="./solutions/highest-order-placing-customer.sql">Highest Order Placing Customer</a> | <a href="https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/description/">Customer Placing the Largest Number of Orders</a> |
-| 14 | <a href="./solutions/frequent-actor-director-duos.sql">Frequent Actor-Director Duos</a> | <sub>Link to be added</sub> |
-| 15 | <a href="./solutions/large-classes.sql">Large Classes</a> | <a href="https://leetcode.com/problems/classes-more-than-5-students/">Classes More Than 5 Students</a> |
+| 14 | <a href="./solutions/frequent-actor-director-duos.sql">Frequent Actor-Director Duos</a> | <a href="https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/description/">Actors and Directors Who Cooperated At Least Three Times</a> |
+| 15 | <a href="./solutions/large-classes.sql">Large Classes</a> | <a href="https://leetcode.com/problems/classes-with-at-least-5-students/description/">Classes With at Least 5 Students</a> |
 | 16 | <a href="./solutions/email-duplicates.sql">Email Duplicates</a> | <a href="https://leetcode.com/problems/duplicate-emails/">Duplicate Emails</a> |
 | 17 | <a href="./solutions/contest-participation-rate.sql">Contest Participation Rate</a> | <sub>Link to be added</sub> |
 | 18 | <a href="./solutions/high-report-managers.sql">High-Report Managers</a> | <sub>Link to be added</sub> |
