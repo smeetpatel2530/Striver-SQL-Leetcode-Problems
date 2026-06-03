@@ -21,7 +21,7 @@ This repository helps organize SQL practice in a portfolio-friendly format by co
 | Sr. No. | Problem Name | LeetCode Link |
 |---|---|---|
 | 1 | <a href="./solutions/large-nations.sql">Large Nations</a> | <a href="https://leetcode.com/problems/big-countries/">Big Countries</a> |
-| 2 | <a href="./solutions/profitable-customers-in-2021.sql">Profitable Customers in 2021</a> | <sub>Link to be added</sub> |
+| 2 | <a href="./solutions/profitable-customers-in-2021.sql">Profitable Customers in 2021</a> | <a href="https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/description/">Find Customers With Positive Revenue This Year</a> |
 | 3 | <a href="./solutions/odd-non-boring-movies.sql">Odd Non-Boring Movies</a> | <a href="https://leetcode.com/problems/not-boring-movies/">Not Boring Movies</a> |
 | 4 | <a href="./solutions/filter-records-excluding-a-specific-pattern.sql">Filter Records Excluding a Specific Pattern</a> | <sub>Link to be added</sub> |
 | 5 | <a href="./solutions/find-records-excluding-a-given-set-of-values.sql">Find Records Excluding a Given Set of Values</a> | <sub>Link to be added</sub> |
