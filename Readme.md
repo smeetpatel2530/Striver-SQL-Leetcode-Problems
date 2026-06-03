@@ -58,7 +58,7 @@ This repository helps organize SQL practice in a portfolio-friendly format by co
 | 36 | <a href="./solutions/match-employees-with-their-salaries.sql">Match Employees With Their Salaries</a> | <sub>Link to be added</sub> |
 | 37 | <a href="./solutions/employees-earning-more-than-their-manager.sql">Employees Earning More Than Their Manager</a> | <a href="https://leetcode.com/problems/employees-earning-more-than-their-managers/">Employees Earning More Than Their Managers</a> |
 | 38 | <a href="./solutions/students-enrolled-in-courses.sql">Students Enrolled in Courses</a> | <sub>Link to be added</sub> |
-| 39 | <a href="./solutions/sales-analysis.sql">Sales Analysis</a> | <sub>Link to be added</sub> |
+| 39 | <a href="./solutions/sales-analysis.sql">Sales Analysis</a> |  <a href="https://leetcode.com/problems/product-sales-analysis-i/description/">Product Sales Analysis I</a> |
 | 40 | <a href="./solutions/minimum-distance-between-points.sql">Minimum Distance Between Points</a> | <sub>Link to be added</sub> |
 | 41 | <a href="./solutions/suspended-accounts.sql">Suspended Accounts</a> | <sub>Link to be added</sub> |
 | 42 | <a href="./solutions/find-team-size-for-each-employee.sql">Find Team Size for Each Employee</a> | <sub>Link to be added</sub> |
