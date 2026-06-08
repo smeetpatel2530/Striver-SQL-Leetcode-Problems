@@ -100,9 +100,9 @@ This repository helps organize SQL practice in a portfolio-friendly format by co
 | 78 | <a href="./solutions/find-missing-subtasks-for-each-task.sql">Find Missing Subtasks for Each Task</a> | <sub>Link to be added</sub> |
 | 79 | <a href="./solutions/latest-2020-login.sql">Latest 2020 Login</a> | <a href="https://leetcode.com/problems/the-latest-login-in-2020/description/">The Latest Login in 2020</a> |
 | 80 | <a href="./solutions/kid-friendly-movies-in-last-month.sql">Kid-Friendly Movies in Last Month</a> | <sub>Link to be added</sub> |
-| 81 | <a href="./solutions/warmer-days.sql">Warmer Days</a> | <sub>Link to be added</sub> |
-| 82 | <a href="./solutions/restaurant-payment-trends.sql">Restaurant Payment Trends</a> | <sub>Link to be added</sub> |
-| 83 | <a href="./solutions/inactive-sellers.sql">Inactive Sellers</a> | <sub>Link to be added</sub> |
+| 81 | <a href="./solutions/warmer-days.sql">Warmer Days</a> | <a href="https://leetcode.com/problems/rising-temperature/">Rising Temperature</a> |
+| 82 | <a href="./solutions/restaurant-payment-trends.sql">Restaurant Payment Trends</a> | <a href="https://leetcode.com/problems/restaurant-growth/">Restaurant Growth</a> |
+| 83 | <a href="./solutions/inactive-sellers.sql">Inactive Sellers</a> |  <a href="https://leetcode.com/problems/sellers-with-no-sales/">Sellers With No Sales</a> |
 
 
 
