@@ -97,7 +97,7 @@ This repository helps organize SQL practice in a portfolio-friendly format by co
 | 75 | <a href="./solutions/find-all-employees-reporting-to-the-head-of-the-company.sql">Find All Employees Reporting to the Head of the Company</a> | <sub>Link to be added</sub> |
 | 76 | <a href="./solutions/orphan-employees.sql">Orphan Employees</a> | <sub>Link to be added</sub> |
 | 77 | <a href="./solutions/most-frequently-ordered-product-for-each-customer.sql">Most Frequently Ordered Product(s) for Each Customer</a> | <a href="https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer/">Most Frequently Ordered Product for Each Customer</a> |
-| 78 | <a href="./solutions/find-missing-subtasks-for-each-task.sql">Find Missing Subtasks for Each Task</a> | <sub>Link to be added</sub> |
+| 78 | <a href="./solutions/find-missing-subtasks-for-each-task.sql">Find Missing Subtasks for Each Task</a> | <a href="https://leetcode.com/problems/find-the-subtasks-that-did-not-execute/">Find the Subtasks That Did Not Execute</a> |
 | 79 | <a href="./solutions/latest-2020-login.sql">Latest 2020 Login</a> | <a href="https://leetcode.com/problems/the-latest-login-in-2020/description/">The Latest Login in 2020</a> |
 | 80 | <a href="./solutions/kid-friendly-movies-in-last-month.sql">Kid-Friendly Movies in Last Month</a> | <sub>Link to be added</sub> |
 | 81 | <a href="./solutions/warmer-days.sql">Warmer Days</a> | <a href="https://leetcode.com/problems/rising-temperature/">Rising Temperature</a> |
