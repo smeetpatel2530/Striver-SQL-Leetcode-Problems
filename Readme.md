@@ -77,7 +77,7 @@ This repository helps organize SQL practice in a portfolio-friendly format by co
 | 55 | <a href="./solutions/suggested-pages.sql">Suggested Pages</a> | <sub>Link to be added</sub> |
 | 56 | <a href="./solutions/contest-participation-rate.sql">Contest Participation Rate</a> | <sub>Link to be added</sub> |
 | 57 | <a href="./solutions/high-report-managers.sql">High-Report Managers</a> | <sub>Link to be added</sub> |
-| 58 | <a href="./solutions/all-product-buyers.sql">All-Product Buyers</a> | <a href="https://leetcode.com/problems/customers-who-bought-all-products/">Customers Who Bought All Products</a> [2] |
+| 58 | <a href="./solutions/all-product-buyers.sql">All-Product Buyers</a> | <a href="https://leetcode.com/problems/customers-who-bought-all-products/">Customers Who Bought All Products</a> |
 | 59 | <a href="./solutions/highest-non-repeating-number.sql">Highest Non-Repeating Number</a> | <sub>Link to be added</sub> |
 | 60 | <a href="./solutions/find-the-first-device-logged-in-by-each-player.sql">Find the First Device Logged In by Each Player</a> | <a href="https://leetcode.com/problems/game-play-analysis-i/">Game Play Analysis I</a> [5] |
 | 61 | <a href="./solutions/salespersons-without-red-orders.sql">Salespersons Without RED Orders</a> | <sub>Link to be added</sub> |
@@ -96,9 +96,9 @@ This repository helps organize SQL practice in a portfolio-friendly format by co
 | 74 | <a href="./solutions/immediate-first-orders-percentage.sql">Immediate First Orders Percentage</a> | <sub>Link to be added</sub> |
 | 75 | <a href="./solutions/find-all-employees-reporting-to-the-head-of-the-company.sql">Find All Employees Reporting to the Head of the Company</a> | <sub>Link to be added</sub> |
 | 76 | <a href="./solutions/orphan-employees.sql">Orphan Employees</a> | <sub>Link to be added</sub> |
-| 77 | <a href="./solutions/most-frequently-ordered-product-for-each-customer.sql">Most Frequently Ordered Product(s) for Each Customer</a> | <sub>Link to be added</sub> |
+| 77 | <a href="./solutions/most-frequently-ordered-product-for-each-customer.sql">Most Frequently Ordered Product(s) for Each Customer</a> | <a href="https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer/">Most Frequently Ordered Product for Each Customer</a> |
 | 78 | <a href="./solutions/find-missing-subtasks-for-each-task.sql">Find Missing Subtasks for Each Task</a> | <sub>Link to be added</sub> |
-| 79 | <a href="./solutions/latest-2020-login.sql">Latest 2020 Login</a> | <sub>Link to be added</sub> |
+| 79 | <a href="./solutions/latest-2020-login.sql">Latest 2020 Login</a> | <a href="https://leetcode.com/problems/the-latest-login-in-2020/description/">The Latest Login in 2020</a> |
 | 80 | <a href="./solutions/kid-friendly-movies-in-last-month.sql">Kid-Friendly Movies in Last Month</a> | <sub>Link to be added</sub> |
 | 81 | <a href="./solutions/warmer-days.sql">Warmer Days</a> | <sub>Link to be added</sub> |
 | 82 | <a href="./solutions/restaurant-payment-trends.sql">Restaurant Payment Trends</a> | <sub>Link to be added</sub> |
