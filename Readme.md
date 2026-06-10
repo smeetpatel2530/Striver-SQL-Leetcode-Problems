@@ -46,7 +46,7 @@ This repository helps organize SQL practice in a portfolio-friendly format by co
 | 24 | <a href="./solutions/exceeding-tweet-length.sql">Exceeding Tweet Length</a> | <a href="https://leetcode.com/problems/invalid-tweets/">Invalid Tweets</a> |
 | 25 | <a href="./solutions/system-settings.sql">System Settings</a> | <sub>Link to be added</sub> |
 | 26 | <a href="./solutions/employee-salary.sql">Employee Salary</a> | <a href="https://leetcode.com/problems/swap-salary/">Swap Salary</a> |
-| 27 | <a href="./solutions/combine-active-and-archived-users.sql">Combine Active and Archived Users</a> | <sub>Link to be added</sub> |
+| 27 | <a href="./solutions/combine-active-and-archived-users.sql">Combine Active and Archived Users</a> |  <a href="https://leetcode.com/problems/active-users/">Active Users</a>|
 | 28 | <a href="./solutions/merge-recent-orders-from-multiple-sources.sql">Merge Recent Orders from Multiple Sources</a> | <sub>Link to be added</sub> |
 | 29 | <a href="./solutions/combine-sales-records-without-deduplication.sql">Combine Sales Records Without Deduplication</a> | <sub>Link to be added</sub> |
 | 30 | <a href="./solutions/reshape-products-data.sql">Reshape Products Data</a> | <a href="https://leetcode.com/problems/rearrange-products-table/description/">Rearrange Products Table</a> |
