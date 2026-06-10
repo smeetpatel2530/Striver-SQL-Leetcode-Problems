@@ -65,7 +65,7 @@ This repository helps organize SQL practice in a portfolio-friendly format by co
 | 43 | <a href="./solutions/average-experience-by-project.sql">Average Experience by Project</a> | <a href="https://leetcode.com/problems/project-employees-i/description/">Project Employees I</a> |
 | 44 | <a href="./solutions/warehouse-stock-manager.sql">Warehouse Stock Manager</a> | <a href="https://leetcode.com/problems/warehouse-manager/description/">Warehouse Manager</a> |
 | 45 | <a href="./solutions/table-join-operation.sql">Table Join Operation</a> | <sub>Link to be added</sub> |
-| 46 | <a href="./solutions/inactive-customers.sql">Inactive Customers</a> | <sub>Link to be added</sub> |
+| 46 | <a href="./solutions/inactive-customers.sql">Inactive Customers</a> | <a href="https://leetcode.com/problems/active-users/">Active Users</a> |
 | 47 | <a href="./solutions/students-enrolled-in-non-existent-departments.sql">Students Enrolled in Non-Existent Departments</a> | <sub>Link to be added</sub> |
 | 48 | <a href="./solutions/low-bonus-employees.sql">Low Bonus Employees</a> | <sub>Link to be added</sub> |
 | 49 | <a href="./solutions/available-seat-streaks.sql">Available Seat Streaks</a> | <sub>Link to be added</sub> |
