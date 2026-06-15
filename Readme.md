@@ -71,7 +71,7 @@ This repository helps organize SQL practice in a portfolio-friendly format by co
 | 49 | <a href="./solutions/available-seat-streaks.sql">Available Seat Streaks</a> | <sub>Link to be added</sub> |
 | 50 | <a href="./solutions/visitors-without-transactions.sql">Visitors Without Transactions</a> | <a href="https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/">Customer Who Visited but Did Not Make Any Transactions</a> |
 | 51 | <a href="./solutions/a-and-b-buyers-without-c.sql">A &amp; B Buyers Without C</a> | <sub>Link to be added</sub> |
-| 52 | <a href="./solutions/product-selling-price-report.sql">Product Selling Price Report</a> | <sub>Link to be added</sub> |
+| 52 | <a href="./solutions/product-selling-price-report.sql">Product Selling Price Report</a> |  <a href="https://leetcode.com/problems/average-selling-price/description/">Average Selling Price</a> |
 | 53 | <a href="./solutions/updated-bank-balances.sql">Updated Bank Balances</a> | <sub>Link to be added</sub> |
 | 54 | <a href="./solutions/most-frequent-travellers.sql">Most Frequent Travellers</a> | <sub>Link to be added</sub> |
 | 55 | <a href="./solutions/suggested-pages.sql">Suggested Pages</a> | <sub>Link to be added</sub> |
