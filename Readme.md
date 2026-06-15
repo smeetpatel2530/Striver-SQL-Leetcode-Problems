@@ -57,7 +57,7 @@ This repository helps organize SQL practice in a portfolio-friendly format by co
 | 35 | <a href="./solutions/employees-with-or-without-salary-records.sql">Employees With or Without Salary Records</a> | <sub>Link to be added</sub> |
 | 36 | <a href="./solutions/match-employees-with-their-salaries.sql">Match Employees With Their Salaries</a> | <sub>Link to be added</sub> |
 | 37 | <a href="./solutions/employees-earning-more-than-their-manager.sql">Employees Earning More Than Their Manager</a> | <a href="https://leetcode.com/problems/employees-earning-more-than-their-managers/">Employees Earning More Than Their Managers</a> |
-| 38 | <a href="./solutions/students-enrolled-in-courses.sql">Students Enrolled in Courses</a> | <sub>Link to be added</sub> |
+| 38 | <a href="./solutions/students-enrolled-in-courses.sql">Students Enrolled in Courses</a> | <a href="https://leetcode.com/problems/students-with-invalid-departments/description/">Students with Invalid Departments</a>|
 | 39 | <a href="./solutions/sales-analysis.sql">Sales Analysis</a> |  <a href="https://leetcode.com/problems/product-sales-analysis-i/description/">Product Sales Analysis I</a> |
 | 40 | <a href="./solutions/minimum-distance-between-points.sql">Minimum Distance Between Points</a> | <a href="https://leetcode.com/problems/shortest-distance-in-a-line/description/">Shortest Distance in a Line</a> |
 | 41 | <a href="./solutions/suspended-accounts.sql">Suspended Accounts</a> | <a href="https://leetcode.com/problems/leetflex-banned-accounts/description/">Leetflex Banned Accounts</a> |
@@ -67,7 +67,7 @@ This repository helps organize SQL practice in a portfolio-friendly format by co
 | 45 | <a href="./solutions/table-join-operation.sql">Table Join Operation</a> | <sub>Link to be added</sub> |
 | 46 | <a href="./solutions/inactive-customers.sql">Inactive Customers</a> | <a href="https://leetcode.com/problems/active-users/">Active Users</a> |
 | 47 | <a href="./solutions/students-enrolled-in-non-existent-departments.sql">Students Enrolled in Non-Existent Departments</a> | <sub>Link to be added</sub> |
-| 48 | <a href="./solutions/low-bonus-employees.sql">Low Bonus Employees</a> | <sub>Link to be added</sub> |
+| 48 | <a href="./solutions/low-bonus-employees.sql">Low Bonus Employees</a> | <a href="https://leetcode.com/problems/employee-bonus/description/">Employee Bonus</a> |
 | 49 | <a href="./solutions/available-seat-streaks.sql">Available Seat Streaks</a> | <a href="https://leetcode.com/problems/consecutive-available-seats/description/">Available Seats</a> |
 | 50 | <a href="./solutions/visitors-without-transactions.sql">Visitors Without Transactions</a> | <a href="https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/">Customer Who Visited but Did Not Make Any Transactions</a> |
 | 51 | <a href="./solutions/a-and-b-buyers-without-c.sql">A &amp; B Buyers Without C</a> | <sub>Link to be added</sub> |
