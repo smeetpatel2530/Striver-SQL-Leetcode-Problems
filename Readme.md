@@ -73,7 +73,7 @@ This repository helps organize SQL practice in a portfolio-friendly format by co
 | 51 | <a href="./solutions/a-and-b-buyers-without-c.sql">A &amp; B Buyers Without C</a> | <sub>Link to be added</sub> |
 | 52 | <a href="./solutions/product-selling-price-report.sql">Product Selling Price Report</a> |  <a href="https://leetcode.com/problems/average-selling-price/description/">Average Selling Price</a> |
 | 53 | <a href="./solutions/updated-bank-balances.sql">Updated Bank Balances</a> | <a href="https://leetcode.com/problems/bank-account-summary-ii/description/">Bank Account Summary II</a> |
-| 54 | <a href="./solutions/most-frequent-travellers.sql">Most Frequent Travellers</a> | <sub>Link to be added</sub> |
+| 54 | <a href="./solutions/most-frequent-travellers.sql">Most Frequent Travellers</a> | <a href="https://leetcode.com/problems/top-travellers/description/">Top Travellers</a> |
 | 55 | <a href="./solutions/suggested-pages.sql">Suggested Pages</a> | <a href="https://leetcode.com/problems/page-recommendations-ii/description/">Page Recommendation II</a> |
 | 56 | <a href="./solutions/contest-participation-rate.sql">Contest Participation Rate</a> | <sub>Link to be added</sub> |
 | 57 | <a href="./solutions/high-report-managers.sql">High-Report Managers</a> | <sub>Link to be added</sub> |
