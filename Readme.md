@@ -68,7 +68,7 @@ This repository helps organize SQL practice in a portfolio-friendly format by co
 | 46 | <a href="./solutions/inactive-customers.sql">Inactive Customers</a> | <a href="https://leetcode.com/problems/active-users/">Active Users</a> |
 | 47 | <a href="./solutions/students-enrolled-in-non-existent-departments.sql">Students Enrolled in Non-Existent Departments</a> | <sub>Link to be added</sub> |
 | 48 | <a href="./solutions/low-bonus-employees.sql">Low Bonus Employees</a> | <sub>Link to be added</sub> |
-| 49 | <a href="./solutions/available-seat-streaks.sql">Available Seat Streaks</a> | <sub>Link to be added</sub> |
+| 49 | <a href="./solutions/available-seat-streaks.sql">Available Seat Streaks</a> | <a href="https://leetcode.com/problems/consecutive-available-seats/description/">Available Seats</a> |
 | 50 | <a href="./solutions/visitors-without-transactions.sql">Visitors Without Transactions</a> | <a href="https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/">Customer Who Visited but Did Not Make Any Transactions</a> |
 | 51 | <a href="./solutions/a-and-b-buyers-without-c.sql">A &amp; B Buyers Without C</a> | <sub>Link to be added</sub> |
 | 52 | <a href="./solutions/product-selling-price-report.sql">Product Selling Price Report</a> |  <a href="https://leetcode.com/problems/average-selling-price/description/">Average Selling Price</a> |
