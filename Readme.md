@@ -75,7 +75,7 @@ This repository helps organize SQL practice in a portfolio-friendly format by co
 | 53 | <a href="./solutions/updated-bank-balances.sql">Updated Bank Balances</a> | <a href="https://leetcode.com/problems/bank-account-summary-ii/description/">Bank Account Summary II</a> |
 | 54 | <a href="./solutions/most-frequent-travellers.sql">Most Frequent Travellers</a> | <a href="https://leetcode.com/problems/top-travellers/description/">Top Travellers</a> |
 | 55 | <a href="./solutions/suggested-pages.sql">Suggested Pages</a> | <a href="https://leetcode.com/problems/page-recommendations-ii/description/">Page Recommendation II</a> |
-| 56 | <a href="./solutions/contest-participation-rate.sql">Contest Participation Rate</a> | <sub>Link to be added</sub> |
+| 56 | <a href="./solutions/contest-participation-rate.sql">Contest Participation Rate</a> | <a href="https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/">Percentage of Users Attended a Contest</a>|
 | 57 | <a href="./solutions/high-report-managers.sql">High-Report Managers</a> |  <a href="https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/">Managers with at Least 5 Direct Reports</a> |
 | 58 | <a href="./solutions/all-product-buyers.sql">All-Product Buyers</a> | <a href="https://leetcode.com/problems/customers-who-bought-all-products/">Customers Who Bought All Products</a> |
 | 59 | <a href="./solutions/highest-non-repeating-number.sql">Highest Non-Repeating Number</a> |  <a href="https://leetcode.com/problems/biggest-single-number/description/">Biggest Single Number</a> |
