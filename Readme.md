@@ -76,7 +76,7 @@ This repository helps organize SQL practice in a portfolio-friendly format by co
 | 54 | <a href="./solutions/most-frequent-travellers.sql">Most Frequent Travellers</a> | <a href="https://leetcode.com/problems/top-travellers/description/">Top Travellers</a> |
 | 55 | <a href="./solutions/suggested-pages.sql">Suggested Pages</a> | <a href="https://leetcode.com/problems/page-recommendations-ii/description/">Page Recommendation II</a> |
 | 56 | <a href="./solutions/contest-participation-rate.sql">Contest Participation Rate</a> | <sub>Link to be added</sub> |
-| 57 | <a href="./solutions/high-report-managers.sql">High-Report Managers</a> | <sub>Link to be added</sub> |
+| 57 | <a href="./solutions/high-report-managers.sql">High-Report Managers</a> |  <a href="https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/">Managers with at Least 5 Direct Reports</a> |
 | 58 | <a href="./solutions/all-product-buyers.sql">All-Product Buyers</a> | <a href="https://leetcode.com/problems/customers-who-bought-all-products/">Customers Who Bought All Products</a> |
 | 59 | <a href="./solutions/highest-non-repeating-number.sql">Highest Non-Repeating Number</a> |  <a href="https://leetcode.com/problems/biggest-single-number/description/">Biggest Single Number</a> |
 | 60 | <a href="./solutions/find-the-first-device-logged-in-by-each-player.sql">Find the First Device Logged In by Each Player</a> | <a href="https://leetcode.com/problems/game-play-analysis-i/">Game Play Analysis I</a> |
