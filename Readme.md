@@ -82,8 +82,8 @@ This repository helps organize SQL practice in a portfolio-friendly format by co
 | 60 | <a href="./solutions/find-the-first-device-logged-in-by-each-player.sql">Find the First Device Logged In by Each Player</a> | <a href="https://leetcode.com/problems/game-play-analysis-i/">Game Play Analysis I</a> |
 | 61 | <a href="./solutions/salespersons-without-red-orders.sql">Salespersons Without RED Orders</a> | <a href="https://leetcode.com/problems/sales-person/description/">Sales Person</a> |
 | 62 | <a href="./solutions/employees-with-the-highest-salary-in-each-department.sql">Employees with the Highest Salary in Each Department</a> | <a href="https://leetcode.com/problems/department-highest-salary/">Department Highest Salary</a> |
-| 63 | <a href="./solutions/find-the-most-recent-order-for-each-product.sql">Find the Most Recent Order for Each Product</a> | <sub>Link to be added</sub> |
-| 64 | <a href="./solutions/find-transactions-with-maximum-amount-per-day.sql">Find Transactions with Maximum Amount Per Day</a> | <sub>Link to be added</sub> |
+| 63 | <a href="./solutions/find-the-most-recent-order-for-each-product.sql">Find the Most Recent Order for Each Product</a> |  <a href="https://leetcode.com/problems/the-most-recent-orders-for-each-product/description/">The Most Recent Orders For Each Product</a> |
+| 64 | <a href="./solutions/find-transactions-with-maximum-amount-per-day.sql">Find Transactions with Maximum Amount Per Day</a> |  <a href="https://leetcode.com/problems/maximum-transaction-each-day/description/">Maximum Transaction Each Day</a> |
 | 65 | <a href="./solutions/incomplete-employee-records.sql">Incomplete Employee Records</a> | <sub>Link to be added</sub> |
 | 66 | <a href="./solutions/find-quiet-students-in-all-exams.sql">Find Quiet Students in All Exams</a> | <sub>Link to be added</sub> |
 | 67 | <a href="./solutions/top-grade-per-student.sql">Top Grade per Student</a> | <sub>Link to be added</sub> |
