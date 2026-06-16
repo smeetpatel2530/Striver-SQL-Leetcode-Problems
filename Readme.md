@@ -84,12 +84,12 @@ This repository helps organize SQL practice in a portfolio-friendly format by co
 | 62 | <a href="./solutions/employees-with-the-highest-salary-in-each-department.sql">Employees with the Highest Salary in Each Department</a> | <a href="https://leetcode.com/problems/department-highest-salary/">Department Highest Salary</a> |
 | 63 | <a href="./solutions/find-the-most-recent-order-for-each-product.sql">Find the Most Recent Order for Each Product</a> |  <a href="https://leetcode.com/problems/the-most-recent-orders-for-each-product/description/">The Most Recent Orders For Each Product</a> |
 | 64 | <a href="./solutions/find-transactions-with-maximum-amount-per-day.sql">Find Transactions with Maximum Amount Per Day</a> |  <a href="https://leetcode.com/problems/maximum-transaction-each-day/description/">Maximum Transaction Each Day</a> |
-| 65 | <a href="./solutions/incomplete-employee-records.sql">Incomplete Employee Records</a> | <sub>Link to be added</sub> |
-| 66 | <a href="./solutions/find-quiet-students-in-all-exams.sql">Find Quiet Students in All Exams</a> | <sub>Link to be added</sub> |
-| 67 | <a href="./solutions/top-grade-per-student.sql">Top Grade per Student</a> | <sub>Link to be added</sub> |
-| 68 | <a href="./solutions/swap-consecutive-seats.sql">Swap Consecutive Seats</a> | <sub>Link to be added</sub> |
-| 69 | <a href="./solutions/safe-investment-countries.sql">Safe Investment Countries</a> | <sub>Link to be added</sub> |
-| 70 | <a href="./solutions/tennis-grand-slam-winners.sql">Tennis Grand Slam Winners</a> | <sub>Link to be added</sub> |
+| 65 | <a href="./solutions/incomplete-employee-records.sql">Incomplete Employee Records</a> | <a href="https://leetcode.com/problems/employees-with-missing-information/description/">Employees With Missing Information</a> |
+| 66 | <a href="./solutions/find-quiet-students-in-all-exams.sql">Find Quiet Students in All Exams</a> |  <a href="https://leetcode.com/problems/find-the-quiet-students-in-all-exams/description/">Find The Quiet Students In All Exams</a> |
+| 67 | <a href="./solutions/top-grade-per-student.sql">Top Grade per Student</a> | <a href="https://leetcode.com/problems/highest-grade-for-each-student/description/">Highest Grade For Each Student</a> |
+| 68 | <a href="./solutions/swap-consecutive-seats.sql">Swap Consecutive Seats</a> |  <a href="https://leetcode.com/problems/exchange-seats/description/">Exchange Seats</a> |
+| 69 | <a href="./solutions/safe-investment-countries.sql">Safe Investment Countries</a> | <a href="https://leetcode.com/problems/countries-you-can-safely-invest-in/description/">Countries You Can Safely Invest In</a> |
+| 70 | <a href="./solutions/tennis-grand-slam-winners.sql">Tennis Grand Slam Winners</a> | <a href="https://leetcode.com/problems/grand-slam-titles/description/">Grand Slam Titles</a> |
 | 71 | <a href="./solutions/football-team-scores.sql">Football Team Scores</a> | <sub>Link to be added</sub> |
 | 72 | <a href="./solutions/order-count-per-customer.sql">Order Count per Customer</a> | <sub>Link to be added</sub> |
 | 73 | <a href="./solutions/boolean-expression-evaluator.sql">Boolean Expression Evaluator</a> | <sub>Link to be added</sub> |
