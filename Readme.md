@@ -78,8 +78,8 @@ This repository helps organize SQL practice in a portfolio-friendly format by co
 | 56 | <a href="./solutions/contest-participation-rate.sql">Contest Participation Rate</a> | <sub>Link to be added</sub> |
 | 57 | <a href="./solutions/high-report-managers.sql">High-Report Managers</a> | <sub>Link to be added</sub> |
 | 58 | <a href="./solutions/all-product-buyers.sql">All-Product Buyers</a> | <a href="https://leetcode.com/problems/customers-who-bought-all-products/">Customers Who Bought All Products</a> |
-| 59 | <a href="./solutions/highest-non-repeating-number.sql">Highest Non-Repeating Number</a> | <sub>Link to be added</sub> |
-| 60 | <a href="./solutions/find-the-first-device-logged-in-by-each-player.sql">Find the First Device Logged In by Each Player</a> | <a href="https://leetcode.com/problems/game-play-analysis-i/">Game Play Analysis I</a> [5] |
+| 59 | <a href="./solutions/highest-non-repeating-number.sql">Highest Non-Repeating Number</a> |  <a href="https://leetcode.com/problems/biggest-single-number/description/">Biggest Single Number</a> |
+| 60 | <a href="./solutions/find-the-first-device-logged-in-by-each-player.sql">Find the First Device Logged In by Each Player</a> | <a href="https://leetcode.com/problems/game-play-analysis-i/">Game Play Analysis I</a> |
 | 61 | <a href="./solutions/salespersons-without-red-orders.sql">Salespersons Without RED Orders</a> | <a href="https://leetcode.com/problems/sales-person/description/">Sales Person</a> |
 | 62 | <a href="./solutions/employees-with-the-highest-salary-in-each-department.sql">Employees with the Highest Salary in Each Department</a> | <sub>Link to be added</sub> |
 | 63 | <a href="./solutions/find-the-most-recent-order-for-each-product.sql">Find the Most Recent Order for Each Product</a> | <sub>Link to be added</sub> |
