@@ -90,11 +90,11 @@ This repository helps organize SQL practice in a portfolio-friendly format by co
 | 68 | <a href="./solutions/swap-consecutive-seats.sql">Swap Consecutive Seats</a> |  <a href="https://leetcode.com/problems/exchange-seats/description/">Exchange Seats</a> |
 | 69 | <a href="./solutions/safe-investment-countries.sql">Safe Investment Countries</a> | <a href="https://leetcode.com/problems/countries-you-can-safely-invest-in/description/">Countries You Can Safely Invest In</a> |
 | 70 | <a href="./solutions/tennis-grand-slam-winners.sql">Tennis Grand Slam Winners</a> | <a href="https://leetcode.com/problems/grand-slam-titles/description/">Grand Slam Titles</a> |
-| 71 | <a href="./solutions/football-team-scores.sql">Football Team Scores</a> | <sub>Link to be added</sub> |
-| 72 | <a href="./solutions/order-count-per-customer.sql">Order Count per Customer</a> | <sub>Link to be added</sub> |
-| 73 | <a href="./solutions/boolean-expression-evaluator.sql">Boolean Expression Evaluator</a> | <sub>Link to be added</sub> |
-| 74 | <a href="./solutions/immediate-first-orders-percentage.sql">Immediate First Orders Percentage</a> | <sub>Link to be added</sub> |
-| 75 | <a href="./solutions/find-all-employees-reporting-to-the-head-of-the-company.sql">Find All Employees Reporting to the Head of the Company</a> | <sub>Link to be added</sub> |
+| 71 | <a href="./solutions/football-team-scores.sql">Football Team Scores</a> | <a href="https://leetcode.com/problems/team-scores-in-football-tournament/description/">Team Scores In Football Tournament</a> |
+| 72 | <a href="./solutions/order-count-per-customer.sql">Order Count per Customer</a> | <a href="https://leetcode.com/problems/customer-order-frequency/description/">Customer Order Frequency</a> |
+| 73 | <a href="./solutions/boolean-expression-evaluator.sql">Boolean Expression Evaluator</a> | <a href="https://leetcode.com/problems/evaluate-boolean-expression/description/">Evaluate Boolean Expression</a> |
+| 74 | <a href="./solutions/immediate-first-orders-percentage.sql">Immediate First Orders Percentage</a> | <a href="https://leetcode.com/problems/immediate-food-delivery-ii/description/">Immediate Food Delivery II</a> |
+| 75 | <a href="./solutions/find-all-employees-reporting-to-the-head-of-the-company.sql">Find All Employees Reporting to the Head of the Company</a> | <a href="https://leetcode.com/problems/all-people-report-to-the-given-manager/description/">All People Report To The Given Manager</a> |
 | 76 | <a href="./solutions/orphan-employees.sql">Orphan Employees</a> | <a href="https://leetcode.com/problems/employees-whose-manager-left-the-company/">Employees Whose Manager Left the Company</a> |
 | 77 | <a href="./solutions/most-frequently-ordered-product-for-each-customer.sql">Most Frequently Ordered Product(s) for Each Customer</a> | <a href="https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer/">Most Frequently Ordered Product for Each Customer</a> |
 | 78 | <a href="./solutions/find-missing-subtasks-for-each-task.sql">Find Missing Subtasks for Each Task</a> | <a href="https://leetcode.com/problems/find-the-subtasks-that-did-not-execute/">Find the Subtasks That Did Not Execute</a> |
